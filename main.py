@@ -6,14 +6,14 @@ print(RB.getBanner())
 
 reasons = {
 	#Add your comments in square brackets between quotes, seperated by comma. (e.g ["he is scammer", "scammed 10k bobux"])
-    	1: {"reason": "Inappropriate Language - Profanity & Adult Content", "comments": ["he said slurs"]},
-	2: {"reason": "Asking for or Giving Private Information",           "comments": ["he asked for my password"]},
-	3: {"reason": "Bullying, Harassment, Discrimination",               "comments": ["he bullied me"]},
-	4: {"reason": "Dating",                                             "comments": ["hes oding"]},
+    	1: {"reason": "Inappropriate Language - Profanity & Adult Content", "comments": ["he said slurs and curse words!!!"]},
+	2: {"reason": "Asking for or Giving Private Information",           "comments": ["he asked for my password and my adress"]},
+	3: {"reason": "Bullying, Harassment, Discrimination",               "comments": ["he bullied me and harrased me"]},
+	4: {"reason": "Dating",                                             "comments": ["hes onlinedating!"]},
 	5: {"reason": "Exploiting, Cheating, Scamming",                     "comments": ["he is scammer"]},
 	6: {"reason": "Account Theft - Phishing, Hacking, Trading",         "comments": ["he hacked my account"]},
-	7: {"reason": "Inappropriate Content - Place, Image, Model",        "comments": ["he uploaded hentai"]},
-	8: {"reason": "Real Life Threats & Suicide Threats",                "comments": ["he threatened me"]},
+	7: {"reason": "Inappropriate Content - Place, Image, Model",        "comments": ["he uploaded hentai and bypassed pornographic content!"]},
+	8: {"reason": "Real Life Threats & Suicide Threats",                "comments": ["he threatened to hurt me and my family"]},
 	9: {"reason": "Other rule violation",                               "comments": ["he is doing offsite rule violations"]}
 }
 
